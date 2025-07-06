@@ -117,4 +117,9 @@ img {
         display: block;
         width: 80%;
     }
+
+    .box-inside {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5em;
+    }
 }
